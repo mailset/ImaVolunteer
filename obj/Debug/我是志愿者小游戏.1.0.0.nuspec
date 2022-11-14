@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>我是志愿者小游戏</id>
+    <version>1.0.0</version>
+    <authors>我是志愿者小游戏</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Sharprompt" version="2.4.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Code\CSharp\我是志愿者小游戏\bin\Debug\net6.0\我是志愿者小游戏.runtimeconfig.json" target="lib\net6.0\我是志愿者小游戏.runtimeconfig.json" />
+    <file src="F:\Code\CSharp\我是志愿者小游戏\bin\Debug\net6.0\我是志愿者小游戏.dll" target="lib\net6.0\我是志愿者小游戏.dll" />
+  </files>
+</package>

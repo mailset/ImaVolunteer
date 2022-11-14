@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVKopQVZlDAipbkBINL++ecPaoSN4Ikx3aJfk205hhnP85ifDINCJYQr+qj1/Gj+fKQvp9lc/k2inCz6TJ5ANA==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\CSharp\\我是志愿者小游戏\\我是志愿者小游戏.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gzr41\\.nuget\\packages\\sharprompt\\2.4.5\\sharprompt.2.4.5.nupkg.sha512",
+    "C:\\Users\\gzr41\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

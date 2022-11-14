@@ -1,0 +1,8 @@
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\我是志愿者小游戏.exe
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\我是志愿者小游戏.dll
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\我是志愿者小游戏.deps.json
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\我是志愿者小游戏.runtimeconfig.json
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\我是志愿者小游戏.pdb
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\Sharprompt.dll
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\de-DE\Sharprompt.resources.dll
+F:\Code\CSharp\我是志愿者小游戏\bin\Release\net6.0\publish\ja\Sharprompt.resources.dll
